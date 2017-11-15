@@ -1,27 +1,16 @@
 ---
-title: "Making sense of the SCAA’s new Flavor Wheel"
+title: How To Best Present Your NZ Business
 date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
-image: /img/blog/flavor_wheel.jpg
+description: >-
+  "Where do I start?" Great question, we recommend starting with brochure
+  holders - if you are unsure of the next step for your display, as simple as
+  this might sound - it is something your customer needs to see.
+image: /img/70_1_med.jpg
 ---
+They are valuable for expos, office display, menu holder/restaurant display and can be used for promotion anywhere anytime. Once you have a promotion organised for your brochure holder you will have a better or a clear idea of what to do next. For example you may then want to move on to bigger ideas such as snap frames or show room display.\
+\
+Another reason to use brochure holders is because it is not invasive and can be a great focal point but not a barrier for customers at your place of business, expo or promotion. It is a non verbal conversation starter to enhance other types of display and can go out the front of a business without being overwhelming.\
+Many customers appreciate this and will be more inclined to stop and talk to you and of course it gives you the opportunity of pointing out your promotion in a conversational way because holders are a friendly size and can go in useful positions.
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
-
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
-
-## What the updates mean to you
-
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
-
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
-
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Check out our great range of brochure holders[](http://www.4displays.co.nz/index.cfm?layout=page&id=5&cat=Brochure+Holders "View Brochure Holders")\
+Of course if you are ready for a sophisticated set up, we can build your custom design unit or display creation for you, from cosmetics to consumer goods, retail and show rooms and just about anything. We look forward to helping you look great.
