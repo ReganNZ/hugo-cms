@@ -1,18 +1,17 @@
-<div><<h1>HELLO</h1></div>
-<!-- {{ partial "head" . }}
-{{ partial "nav" . }} -->
+{{ partial "head" . }}
+{{ partial "nav" . }} 
 
-<!-- {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }} -->
+ {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }} 
 
-<!-- {{ partial "4-up" .Params.intro }} -->
+ {{ partial "4-up" .Params.intro }} 
 
 
-<!-- {{ with .Params.main }}
+{{ with .Params.main }}
 <div class="mw7 center">
   <div class="mw6 ph3 mb3">
     <p>{{ .description }}</p>
   </div>
-</div> -->
+</div> 
 
 <!-- Image grid -->
 <!-- {{ partial "image-grid" . }}
@@ -20,4 +19,4 @@
 
 
 
-<!-- {{ partial "footer" . }} -->
+ {{ partial "footer" . }} 
