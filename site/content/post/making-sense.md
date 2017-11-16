@@ -12,5 +12,5 @@ They are valuable for expos, office display, menu holder/restaurant display and 
 Another reason to use brochure holders is because it is not invasive and can be a great focal point but not a barrier for customers at your place of business, expo or promotion. It is a non verbal conversation starter to enhance other types of display and can go out the front of a business without being overwhelming.\
 Many customers appreciate this and will be more inclined to stop and talk to you and of course it gives you the opportunity of pointing out your promotion in a conversational way because holders are a friendly size and can go in useful positions.
 
-Check out our great range of brochure holders[](http://www.4displays.co.nz/index.cfm?layout=page&id=5&cat=Brochure+Holders "View Brochure Holders")\
+Check out our great range of brochure holders\
 Of course if you are ready for a sophisticated set up, we can build your custom design unit or display creation for you, from cosmetics to consumer goods, retail and show rooms and just about anything. We look forward to helping you look great.
