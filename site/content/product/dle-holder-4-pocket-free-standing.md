@@ -13,6 +13,9 @@ img:
   - image: /img/70_1_med.jpg
 price:
   - {}
+  - max_quantity: '1'
+    min_quantity: '1'
+    price: '1'
 weight: '1'
 description: |-
   Portrait DLE Brochure Holder
