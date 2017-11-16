@@ -5,15 +5,15 @@ media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "products" 
+  - name: "product" 
     label: "Products"
-    folder: "site/content/products"
+    folder: "site/content/product"
     create: true 
     searchFields: ["sku","title","intro","description"]
     fields: 
         - {label: "SKU", name: "sku", widget: "string"}
         - {label: "Title", name: "title", widget: "string"}
-        - {label: Type, name: type, widget: hidden, default: product}
+        #- {label: Type, name: type, widget: hidden, default: product}
         - {label: "Intro", name: "intro", widget: "text", required: true}
         - {label: "Images", name: "img", widget: "list", required: false, fields: [{label: Image, name: image, widget: image}]}
         - {label: "Prices", name: "price", widget: "list", fields: [{label: price, name: price, widget: number }, {label: Min Quantity, name: min_quantity, widget: number} , {label: Max Quantity, name: max_quantity, widget: number}]}
