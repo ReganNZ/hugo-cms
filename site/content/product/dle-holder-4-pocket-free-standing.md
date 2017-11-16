@@ -9,9 +9,18 @@ intro: |
   Converts to A4, 1 pocket.
 
   Removable divider.
+img:
+  - image: /img/70_1_med.jpg
 price:
   - {}
 weight: '1'
-description: 1ververqq
+description: |-
+  Portrait DLE Brochure Holder
+
+  4 pocket (2 Tier x 2 wide).
+
+  Converts to extra capacity A4, 1 pocket. Removable divider!
+
+  Dimensions: 231 Wide x 298 High x 140 Depth
 ---
 
